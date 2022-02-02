@@ -1,5 +1,9 @@
 # FakeStoreApi
 
+# About
+
+eStore developed from the API of https://fakestoreapi.com/. The app developed with Angular 12 and Material Design is fully responsive thanks to the use of Flex-Layout. The login function is activated with a call to the server. The app allows you to browse a list of products presented in cards containing all available data, and a list of users that can be deleted and whose cart can be accessed.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.2.
 
 ## Development server
